@@ -63,7 +63,7 @@ double okrugx(double x, int y)
  
 double drobchast(double x)
 {
- 
+    return x - (int)x;
 }
  
  
